@@ -14,5 +14,5 @@ This Power BI project provides a comprehensive analysis of Superstore sales data
 ![Forecast Image](Forecast%20Image.png)
 
 
-Conclusion
+## Conclusion
 The Superstore Sales Power BI project offers a user-friendly interface for stakeholders to gain actionable insights from sales data. The integration of forecasting provides a forward-looking perspective, aiding in proactive decision-making. Feel free to explore, analyze, and contribute to further enhance this analytics tool.
